@@ -1,0 +1,132 @@
+.main {
+    /*background-color: rgb(159, 159, 240);*/
+    
+}
+
+
+.titre {
+    position : relative;
+    font-family : Lobster, cursive;
+    font-size : 70px;
+    margin-left : 350px;
+    margin-right : 300px; 
+    margin-top : -325px;
+    color : rgb(240, 238, 108);
+    text-decoration :  underline;
+}
+
+.paragraphe {
+    position : relative;
+    font-family : rgb(10, 10, 10) Pro, serif; 
+    font-size : 25px;
+    margin-left : 50px; 
+    margin-right: 420px;
+    margin-top : -200px; 
+}
+
+.paragraphe2 {
+    position : relative;
+    font-family : rgb(10, 10, 10) Pro, serif; 
+    font-size : 15px;
+    margin-left : 1250px; 
+    margin-right: 50px;
+    margin-top : -70px; 
+}
+
+
+
+.image {
+    position : relative;
+    top : 60px; 
+    left : 80px;
+    width: 40vw;
+    margin-left : 370px;
+    margin-right : 150px;
+    margin-top : 40px;
+
+}
+
+.image2 {
+    position : relative;
+    top : 60px;
+    left : 80px;
+    width : 20vw;
+    margin-left : 1000px;
+    margin-top : 400px;
+
+}
+
+.image3 {
+    position: relative;
+    width : 300px;
+    margin-top: 90px;
+    margin-left : 20px;
+
+}
+.image4 {
+    position : absolute;
+    top : 0;
+    left : 0;
+    opacity : 0.8;
+    width : 100vw;
+}
+
+.titreprojet {
+    position : relative;
+    font-family : Lobster, cursive;
+    font-size : 70px;
+    margin-left : 500px;
+    margin-right : 300px; 
+    margin-top : 150px;
+    color : rgb(216, 30, 201);
+    text-decoration :  underline;
+
+}
+.soustitreprojet {
+    position : relative;
+    font-family : Lobster, cursive;
+    font-size : 30px;
+    margin-left : 520px;
+    margin-right : 300px; 
+    margin-top : -350px;
+    color : rgb(216, 30, 201);
+}
+.description {
+    position : relative;
+    font-family : rgb(10, 10, 10) Pro, serif; 
+    font-size : 25px;
+    margin-left : 400px; 
+    margin-right: 100px;
+    margin-top: 50px; 
+}
+
+.description2 {
+    position : relative;
+    font-family : rgb(10, 10, 10) Pro, serif; 
+    font-size : 25px;
+    margin-left : 400px; 
+    margin-right: 100px;
+    margin-top: 50px; 
+}
+
+.description3 {
+    position : relative;
+    font-family : rgb(10, 10, 10) Pro, serif; 
+    font-size : 25px;
+    margin-left : 400px; 
+    margin-right: 100px;
+    margin-top: 50px; 
+}
+
+.imagefinale {
+    position: relative;
+    width : 1200px;
+    margin-top: 90px;
+    margin-left : 200px;
+
+}
+
+
+
+/* commentaire d'une ligne */
+
